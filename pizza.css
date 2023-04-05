@@ -1,0 +1,277 @@
+.header{
+    background-color: white;
+    width : 80%;
+    height: 60px;
+}
+body{
+    margin: 0px;
+}
+.logo{
+    width: 40%;
+    padding-left: 157px;
+    padding-top: 13px
+}
+.signin{
+    width: 13%;
+    margin-left: 1155px;
+    position: absolute;
+    top: 25px
+}
+.signin a{
+    text-decoration: none;
+    color: gray;
+}
+main{
+    width: 100%;
+    height: 390px;
+    
+}
+article{
+    width: 100%;
+    height: 793px;
+    background-color: white; 
+}
+.line1{
+    position: relative;
+    top: 223px;
+    width: 1332px;
+    margin-left: 10px;
+}
+.text-a{
+    width: 277px;
+    position: absolute;
+    top: 641px;
+    left: 520px;
+    background-color: white;
+}
+.a-text{
+    padding-left: 10px;
+    font-family: Sharp Sans Bold Display No1,system-ui,BlinkMacSystemFont,Helvetica Neue,Helvetica,sans-serif;
+    font-weight: 700;
+    font-size: 23px;
+}
+footer{
+    width: 100%;
+    height: 474px;
+    background-color: black;
+}
+.article1{
+    width: 36.4%;
+    height: 206px;
+    background-color: white;
+    position: absolute;
+    top: 388px;
+    margin-left: 424px;
+    box-shadow: 4px 6px 21px 5px grey;
+}
+.inside{
+    height: 74px;
+    width: 17.5%;
+    margin-left: 424px;
+    position: absolute;
+    background-color: white;
+    top: 315px;
+    border-radius: 4px;
+}
+.in-inside{
+    font-family: Sharp Sans Semibold Display No1,system-ui,BlinkMacSystemFont,Helvetica Neue,Helvetica,sans-serif;
+    font-weight: 600;
+    color: red;
+    cursor: pointer;
+    --add-icon-height: 16px;
+    --add-icon-width: 16px;
+    position: absolute;
+    padding-left: 106px;
+    padding-top: 4px;
+}
+.tag-inside{
+    position: absolute;
+    left: 70px;
+    top: 15px;
+}
+.inside2{
+    height: 59px;
+    width: 18.7%;
+    background-color: #d9dde3;
+    position: absolute;
+    margin-left: 662px;
+    top: 331px;
+    border-radius: 4px;
+}
+.in-inside2{
+    position: absolute;
+    left: 90px;
+    top: 5px;
+    color: #454545;
+    font-family: Sharp Sans Semibold Display No1,system-ui,BlinkMacSystemFont,Helvetica Neue,Helvetica,sans-serif;
+    font-weight: 600;
+}
+.tag-inside2{
+    position: absolute;
+    left: 53px;
+    top: 16px;
+}
+.text-article{
+    font-family: Sharp Sans Bold Display No1,system-ui,BlinkMacSystemFont,Helvetica Neue,Helvetica,sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    position: absolute;
+    left: 443px;
+    top: 386px;
+}
+.text-article2{
+    font-family: Open Sans,system-ui,BlinkMacSystemFont,Helvetica Neue,Helvetica,sans-serif;
+    font-size: 14px;
+    position: absolute;
+    left: 444px;
+    top: 423px
+}
+.inside3{
+    width: 33%;
+    height: 48px;
+    position: absolute;
+    left: 445px;
+    top: 487px;
+    border: 1px solid grey;
+    border-radius: 3px;
+}
+.in-inside3{
+    padding-left: 11px;
+    padding-top: 12px;
+    font-family: Open Sans,system-ui,BlinkMacSystemFont,Helvetica Neue,Helvetica,sans-serif;
+    font-weight: 600;
+    color: #bcc1c5;
+}
+.inside4{
+    width: 33%;
+    height: 39px;
+    position: absolute;
+    left: 445px;
+    top: 538px;
+    border: 1px solid grey;
+    border-radius: 3px;
+}
+.in-inside4{
+    font-family: Open Sans,system-ui,BlinkMacSystemFont,Helvetica Neue,Helvetica,sans-serif;
+    position: absolute;
+    right: 243px;
+    top: 13px;
+    width: 172px;
+    text-decoration: none;
+}
+.tag-inside4{
+    position: absolute;
+    right: 420px;
+    top: 17px;
+    width: 14px;
+}
+.pic2{
+    padding-left: 668px;
+    position: absolute;
+    top: 718px;
+
+}
+.pic1{
+    padding-left: 145px;
+    padding-top: 250px;
+}
+.btn{
+    margin-top: 20px;
+    margin-left: 143px;
+    padding-top: 13px;
+    padding-bottom: 11px;
+    padding-left: 457px;
+    padding-right: 438px;
+    font-size: 24px;
+    border-radius: 8px;
+    color: white;
+    background-color: #0f7b23;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: #035111;
+}
+footer{
+    padding-top: 100px;
+    margin-top: -64px;
+}
+.footerlists{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-family:Sharp Sans Semibold Display No1,system-ui,BlinkMacSystemFont,Helvetica Neue,Helvetica,sans-serif; ;
+    font-size: 11px;
+    margin-top: -61px;
+    color: white;
+}
+.footerlists li{
+    list-style-type: none;
+}
+.list-heading{
+    font-size: large;
+    font-weight: bold;
+}
+.footerimg{
+    padding-left: 705px;
+    padding-top: 46px;
+}
+.footerimg2{
+    position: absolute;
+    top: 1408px;
+    left: 551px
+}
+.text{
+    color: white;
+    font-family: Open Sans,system-ui,BlinkMacSystemFont,Helvetica Neue,Helvetica,sans-serif;
+    margin-left: 167px;
+    margin-top: 39px;
+
+}
+.btn2{
+    margin-left: 10px;
+    height: 48px;
+    width: 148px;
+    font-size: 17px;
+    border-radius: 8px;
+    margin-top: 24px;
+    cursor: pointer;
+}
+.btn2:hover{
+    background-color:  #bcc7d6;
+}
+.text1{
+    color: rgb(255, 251, 251);
+    margin-left: 409px;
+    margin-top: 5px;
+    font-family: Open Sans,system-ui,BlinkMacSystemFont,Helvetica Neue,Helvetica,sans-serif;
+    font-weight: bold
+}
+.face,.twit,.insta,.yout{
+    padding-left: 15px;
+    height: 20px;
+}
+.logos{
+    margin-left: -116px;
+    margin-top: 54px;
+}
+.end{
+    margin-top: 30px;
+    margin-right: 13px;
+    line-height: 2;
+    letter-spacing: 0.5px;
+}
+.end-text{
+    color: grey;
+    text-align: center;
+    font-size: 11px;
+}
+.fssai{
+    background-color: white;
+    height: 78px;
+    margin-left: 631px;
+    margin-top: 14px;
+    width: 77px;
+    border-radius: 4px;
+}
+
+
